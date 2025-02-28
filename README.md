@@ -1,4 +1,4 @@
-Alguns exercícios propostos para ajudar a fixar o conteúdo aprendido durante a semana.
+Alguns exercícios propostos para ajudar a fixar o conteúdo aprendido durante a semana.<br>
 O que foi aprendido:
 <ul>
   <li>While e Break</li>
